@@ -32,10 +32,7 @@
             <artifactId>hutool-all</artifactId>
             <version>5.1.0</version>
         </dependency>
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-        </dependency>
+
     </dependencies>
 
 </project>
